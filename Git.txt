@@ -1,0 +1,13 @@
+克隆文档
+git clone url
+添加文档
+git add txt.txt
+保存文档
+git commit -m'注释说明'
+推送
+git push
+
+
+
+下拉
+git pull
